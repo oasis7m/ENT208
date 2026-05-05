@@ -129,7 +129,7 @@ English：
    - Incorrect → encouragement + hint + repeat current question
 7. After completion, parent can view the report in “Learning Report”
 
-# 项目特色 / 卖点 | Key Features / Selling Points
+# 六，项目特色 / 卖点 | Key Features / Selling Points
 
 ✨ Starlight AI Learning Companion
 
