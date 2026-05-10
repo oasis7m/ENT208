@@ -195,7 +195,7 @@ Become the brightest star in a dark world.
 
 # 七，项目结构 | Project Structure
 
-.
+```
 ├── 📁 backend_ai/                # 后端 AI 逻辑目录 (Backend AI Logic)
 │   ├── 📁 __pycache__/           # Python 编译缓存 (Python Cache)
 │   ├── 📁 outputs/               # 语音/数据输出结果 (Generated Outputs)
@@ -215,7 +215,7 @@ Become the brightest star in a dark world.
     ├── galaxy-fixed-v9.html      # 银河稳定版
     ├── premium-v6.html           # 高级交互版
     └── sprite-v4.html            # 精灵助手版
-
+```
 # 八、部署方式 | Deployment
 请根据实际环境补充以下内容。
 Please complete the following based on your actual environment.
