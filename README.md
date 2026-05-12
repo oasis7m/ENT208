@@ -227,8 +227,8 @@ backend_ai.zip and assets.zip
 后端服务：FastAPI 服务运行在 http://127.0.0.1:8000（可修改）
 Backend service: FastAPI running at http://127.0.0.1:8000 (configurable)
 
-YOLO 服务（可选）：物体检测后端运行在 http://127.0.0.1:8001（可修改）
-YOLO service (optional): Object detection backend running at http://127.0.0.1:8001 (configurable)
+YOLO 服务（可选）：物体检测后端运行在 http://127.0.0.1:8001（可修改）W7以前版本可用
+YOLO service (optional): Object detection backend running at http://127.0.0.1:8001 (configurable) Previous versions of W7 are available
 
 DashScope API Key：需在服务端配置
 DashScope API Key: Must be configured on the server side
