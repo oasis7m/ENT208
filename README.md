@@ -262,7 +262,7 @@ python -m http.server 5500
 
 打开网页链接 Open the web link
 
-http://127.0.0.1:5500/blind-kids-xingchen-galaxy-icons-v11-audio-fixed.html
+http://127.0.0.1:5500/blind-kids-xingchen-galaxy-icons-v14-guided-flow.html
 
 
 # 联系我们  Connect us
