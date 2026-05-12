@@ -220,6 +220,9 @@ Become the brightest star in a dark world.
 请根据实际环境补充以下内容。
 Please complete the following based on your actual environment.
 
+最终版本的网站请查看：(For the final version of the website, please refer to:)
+backend_ai.zip and assets.zip 
+
 ## 8.1 前置要求 | Prerequisites
 后端服务：FastAPI 服务运行在 http://127.0.0.1:8000（可修改）
 Backend service: FastAPI running at http://127.0.0.1:8000 (configurable)
